@@ -84,7 +84,7 @@ echo $nau,("-------------------------\n");
 echo $green,("Khởi động cài đặt Ubuntu 18...\n");
 echo $nau,("-------------------------\n");
 echo $green,("");
-@system("cd /data/data/com.termux/files/home && pwd && pkg update -y && pkg install curl proot tar -y && echo N|curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu/ubuntu.sh | bash");
+@system("curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu/ubuntu.sh | bash");
 echo ("\n");
 echo $nau,("-------------------------");
 echo $green,("Hoàn tất !");
