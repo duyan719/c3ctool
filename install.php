@@ -1,64 +1,116 @@
-<? eval(gzinflate(base64_decode('
-5Vjdb9tGEn+uAf8PU6Jo5MQi7ejcFooT13Y/HCS1
-cYWTXnsEdCtyJfJEcnnLpWSl7kPRhz4ViNGHQ9GH
-JAiKoO0VPVzvUMB6uAca93/oP+nsLinqg6mdoHc9
-oBRELWd3dmZnfvNBbd3Y3Iq9eHnp9WSYCBrWDCeg
-hBsr15aXLMthAePJ8tJLnLrXDXut0fjj+rXGemjg
-7EtdTmlUUq9q6pAGARuU5IYmt4OUlsTfaSKnSUnb
-0LSIpCXtFU0beH4wxf2qolpWzFmXkxAX9ClPfBbB
-dWPNvGquKyan4UzIgPRXzDVJrzgndTwGUvBqzYAW
-XpBfejRLycetfNQqBqiQjY9/suWsdaklR1OUcqwG
-OLJsydeyJasN+EGCZGnZt/HBLkkAajxNxW9L3SWz
-nkZCS99am60JJWeGFmxesmH2I1nLraVeUzIUaUFy
-q+SWzIqEl1UxqJht5XsoVqmfXrc4WCCqoTzQ8lLp
-sZphR1P+Q4ii/8xW5WUuLNVK1IxjYyUf59CVILir
-gdOcACu/yrVa2nGFBpUb7jZ2dw4OYRqUSRrHjIsL
-7WnWK6/ZU02kXZHiYJdTIijsDJtwm8LvUxJ14TYJ
-kWd56QocMhZML9nvpkMawV46jDw49HFYrt12+35C
-XWjjuneIDzuEyYVyEmaufJO7BDciT50+9FCVWdV1
-7NWfduVr/Q7UOpgJWvTIT0RSMxJBuKin7TQSqZl4
-xsrKh1LmnDnO7mePoeeNRw98ODsZj75AQ9yJFNOL
-amcomS6mCMCCKpZLBNE3h4WmoDxMjyy5JLE8FlJL
-a1nvJBZnTFgIBBPzbqEypgVrTu2d8emjCPqpD0H2
-D1S5m/0LbAN5IOe1DXmaT+aPFtIozfV8YZLsptiO
-2yTxwLQWjKcO9pGyRZBQ+HCan8Si3qUC0tiViHn5
-ZSgofoQbBQF0fVFFloIryAP5gHT16wkRJ03L4mRg
-4jYe6pRQ7rBI0EiYaE5rj3LWo8O7+9JuAqFrhcSP
-rMCP0Mj5ueR2Fz7mBeztZvgYjEefYkBE2cMhHKXj
-0Ymc+M/fx6MvtcE/ATE+fexDfzz6GNroAHCyh76K
-vx0mQEq4o0TXel72T2ROMHYcL/s6hqjLxqc/OtDD
-h5qNQGjakf2/MbTL/T41u4x1A6rsm1prVups+e71
-dZLc6vRvvnbvz/3e22/feXP4lw/u3ONrbzkbb23f
-2zh4VwkJ+3DR1dXOsY1JJH2k7oU3LhZ/CNICoppN
-dhfIt+tlDxmE49G3aOm28ic66fTfkfTPl7lbDg6r
-syac3Zf+dDzkGyrv5S5DByMEPOn1B/iY7yi4cnzU
-9XzESLgKGIWfgvA0Rpzx6AkBOwoz3EtrEnuK4ewk
-exTDePQ1rhpm36S49PRJirhImzrbvkvCJjS6bSlh
-9ADB+E2UTzCc2EVsqhkpJftOQITbfiWgsbrRbet1
-e1KRsxNU6+MU0CKR14TtyOXMd+FVc21uX9jH46Qw
-pei0hrj76PtZTQVHTjxo9jfc/PFQKxBhanoT45Xb
-BkYAqpjbbnbFruDBlV1c0mzkPsAC5GIU05rqNy+f
-05ydh4s5j+qT6UMJqcNw1knt7BFrzrCqlhY5beM9
-jwgYsDRwYchSCPweBcHAZUDaLMX4ErAF8D5LObBY
-YD1PgHDaLIre+8A43ARoTgJReBRi4vRIl4JMXgK/
-lF9KIO8HCs59yXkgOXuUxlI4ByflHFNhMKznu2Ex
-nmMDeEPdm5B4bKCkuX6nQ5HPoQm0qRjg0RQ950xK
-1g8KVpkrgeAWVGrMgB6RENVUbIkvUiIKkYdSAO2Q
-NEAGR5LBTyTLgtaFPNM2qt10uAglmkNJp9g8JIWP
-/sS86RGoIRS/CuXE6DNM0ik6U+BtxVyE1WXrZ3r+
-XyJvnN2XnZUuAy5GC2IFQZYWqiQBGqS2Zm6sXPuV
-FPk/0qRSlWeP8CJMb812Pqr0Si1/FHnVhfXXSqHP
-L8eYtZgL53V7qtwNXPXT6xbFvD4sCEVSwBDByi0b
-QsDQyxco2fvHau781khl9sg/2o7jyfiA+11sj0KC
-CnPrZp4zuKWNYk2aITgG2SU99ZXqHFtVWGqPYb2R
-nseS9OIz7qRAAbWr/y14/gII0wZ8PkhpzBtX9V8r
-l+dCZk/mv7I57GcPdQN6dsLU6UJ8h+nLM7dl9S1a
-0Nqt+a7SNjYxb0p227iBowipK6rIrRanWl6q4SJM
-4q6EYr2OaOr43ZQjQNVL22+kBcWT3pA3aZnJ/1bK
-OLpvyDuGKPtBNwr5urJF2O5gdOEyrHssplzVxlU0
-u4SHAe/sAOsAcV1f0kmA5TjpQYItAIWBj2ZpU8BY
-dvOyuDqrQnVnJZ35/Nlsri/Kzyc0guQR5dvOX30T
-/uBHiCafQBvfeD7HM5UvRUfZD2Q6pYNOfQpweZkO
-8O5jChh9q0LySfrMGhdInavd56ddqxLT05gsMa20
-GR7jxDysK2Zy+FTM/LovsvLlaevG5tZP
-'))); ?>
+<?php
+@system("clear");
+//colors
+$red="\033[1;31m";
+$green="\033[1;32m";
+$yellow="\033[1;33m";
+$blue="\033[1;34m";
+$res="\033[1;35m";
+$nau="\033[1;36m";
+$while="\033[1;37m";
+//program
+$version ="0.2.1";
+$c3cversion = "0.6.0";
+@system("clear");
+echo $nau,(" ____        __    ____        ____     _____   ______   
+/\  _`\    /'__`\ /\  _`\     /\  _`\  /\  __`\/\__  _\  
+\ \ \/\_\ /\_\L\ \\\ \ \/\_\   \ \ \L\ \\\ \ \/\ \/_/\ \/  
+ \ \ \/_/_\/_/_\_<_\ \ \/_/_   \ \  _ <'\ \ \ \ \ \ \ \  
+  \ \ \L\ \ /\ \L\ \\\ \ \L\ \   \ \ \L\ \\\ \ \_\ \ \ \ \ 
+   \ \____/ \ \____/ \ \____/    \ \____/ \ \_____\ \ \_\
+    \/___/   \/___/   \/___/      \/___/   \/_____/  \/_/
+");
+echo ("\n");
+echo $red,(".______________________.\n");
+echo $red,
+    ("|"),
+    $yellow,(" Version:$version        "),
+    $red,("|\n");
+echo $red,("|"),
+    $yellow,(" C3CBOT $c3cversion support "),
+    $red,("|\n");
+echo $red,(".----------------------.\n");
+echo $yellow,("+ C3C Create By: Le Quang Lam.\n
++ Tool Create By: Nguyen Huynh Tien Lam.\n
++ Advised by: Mai Bao Huy\n
+              Nguyen Van Ha\n
+              Nguyen Thang.\n");
+echo $nau,("-------------------------\n");
+if (file_exists("start-ubuntu.sh")){
+  echo $yellow,("Đã khởi động Unbuntu!\n"); 
+  echo $nau,("-------------------------\n");
+  if (file_exists("/data/data/com.termux/files/home/ubuntu-fs/root/c3c.php")){
+    //echo $yellow,("Bạn vui lòng gõ \"php c3c.php\"để khởi động menu\n");
+	@system("php c3c.php|bash ./start-ubuntu.sh");
+  }
+  else {
+	@system("\"apt-get update && apt-get install git && apt-get install php && apt-get install wget && wget https://raw.githubusercontent.com/HerokeyVN/c3ctool/main/linux/c3c.php && php c3c.php\"|bash ./start-ubuntu.sh");
+    //echo $yellow,("Bạn vui lòng dán lệnh này xuống dưới để tải về bộ cài C3C Bot cho Ubuntu(không sao chép ngoặc kép(\")):\n\"apt-get update && apt-get install git && apt-get install php && apt-get install wget && wget https://drive.google.com/u/0/uc?id=1asKfvI8zjvkGGUEyqZUzr0Fc5FAz5ORp && mv uc?id=1asKfvI8zjvkGGUEyqZUzr0Fc5FAz5ORp c3c.php && php c3c.php\"\n");
+  };
+  //echo $nau,("-------------------------\n");
+}
+else {
+echo $blue,("Chào mừng bạn đến với C3C BOT\n");
+echo $yellow,(" Để chạy Bot không ảnh hưởng đến trải nghiệm, hệ thống của \nmáy bạn phải đáp ứng yêu cầu sau:\n
++ Ram: 3gb trở lên\n
++ Rom: Còn trống ít nhất 3,5gb\n
++ Hệ điều hành: Android 7.0 trở lên\n
+ Nếu máy bạn đáp ứng những yêu cầu trên thì hãy nhấn \"Enter\" còn không hãy nhấn \"Ctrl+C\" :3\n");
+readline();
+/*@system("clear");
+echo $nau,("-------------------------\n");
+echo $yellow,("Nếu bạn thấy hệ thống báo:\n");
+echo $green,("\"What would you like to do about it ?  Your options are:\n
+    Y or I  : install the package maintainer's version\n
+    N or O  : keep your currently-installed version\n
+      D     : show the differences between the versions\n
+      Z     : start a shell to examine the situation\n
+ The default action is to keep your current version.\"\n");
+echo $yellow,("Thì hãy nhấn \"enter\" để chạy tiếp nha (cấm chọn lung tung).\n");
+readline();*/
+@system("clear");
+echo $blue,("Chào mừng bạn đến với C3C BOT\n");
+echo $yellow,("Đang tải dữ liệu.\n");
+sleep(0.5);
+@system("clear");
+echo $blue,("Chào mừng bạn đến với C3C BOT\n");
+echo $yellow,("Đang tải dữ liệu..\n");
+sleep(0.5);
+@system("clear");
+echo $blue,("Chào mừng bạn đến với C3C BOT\n");
+echo $yellow,("Đang tải dữ liệu...\n");
+sleep(0.5);
+echo $nau,("-------------------------\n");
+echo $green,("Khởi động cài đặt Ubuntu 18...\n");
+echo $nau,("-------------------------\n");
+echo $green,("");
+@system("cd /data/data/com.termux/files/home && pwd && pkg update -y && pkg install curl proot tar -y && echo N|curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu/ubuntu.sh | bash");
+echo ("\n");
+echo $nau,("-------------------------");
+echo $green,("Hoàn tất !");
+echo $nau,("-------------------------");
+sleep (2);
+@system("clear");
+echo $blue,("Chào mừng bạn đến với C3C BOT\n");
+echo $nau,("-------------------------\n");
+echo $green,("Khởi động Ubuntu...\n");
+echo $nau,("-------------------------\n");
+sleep("2");
+/*echo $yellow,("Hãy sao chép và dán đoạn mã vào bên dưới (Không sao chép \"<\" và \">\" nhé):\n"), $green,
+("<\n
+dpkg --configure -a\n
+apt-get update && apt-get install git && apt-get install php && apt-get install wget && wget https://drive.google.com/u/0/uc?id=1asKfvI8zjvkGGUEyqZUzr0Fc5FAz5ORp && mv uc?id=1asKfvI8zjvkGGUEyqZUzr0Fc5FAz5ORp c3c.php && php c3c.php\n
+>\n
+"), 
+$yellow,
+("Nếu thấy nó báo:"), 
+$green,("\"After this operation, \"...\" MB of additional disk space will be used.\"\n"),
+$yellow,
+("hãy nhấn \"Enter\" nhé.\n");
+echo $nau,("-------------------------\n");
+echo $yellow,("Nếu thấy thông báo lỗi. Xin chia buồn, vui lòng xóa dữ liệu termux và chạy lại từ đầu.\n");
+echo $nau,("-------------------------\n"), $green;*/
+@system("cd /data/data/com.termux/files/home/
+\"dpkg --configure -a && apt-get update && echo y|apt install git && echo y|apt install php && echo y|apt install wget && wget https://raw.githubusercontent.com/HerokeyVN/c3ctool/main/linux/c3c.php && php c3c.php\"|bash ./start-ubuntu.sh");
+};
+?>
