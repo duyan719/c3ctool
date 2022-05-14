@@ -40,11 +40,17 @@ if (file_exists("start-ubuntu.sh")){
   echo $yellow,("Đã khởi động Unbuntu!\n"); 
   echo $nau,("-------------------------\n");
   if (file_exists("/data/data/com.termux/files/home/ubuntu-fs/root/c3c.php")){
-    //echo $yellow,("Bạn vui lòng gõ \"php c3c.php\"để khởi động menu\n");
-	@system("echo php c3c.php|bash ./start-ubuntu.sh");
+    echo $yellow,("Bạn vui lòng gõ \"php c3c.php\"để khởi động menu\n");
+	@system("bash ./start-ubuntu.sh");
   }
   else {
-	@system("echo \"apt-get update && apt-get install git && apt-get install php && apt-get install wget && wget https://raw.githubusercontent.com/HerokeyVN/c3ctool/main/linux/c3c.php && php c3c.php\"|bash ./start-ubuntu.sh");
+	@system("echo \"apt-get update && apt-get install git && apt-get install php && apt-get install wget && wget https://raw.githubusercontent.com/HerokeyVN/c3ctool/main/linux/c3c.php\"|bash ./start-ubuntu.sh");
+        @system("clear");
+        echo $blue,("Chào mừng bạn đến với C3C BOT\n");
+        echo $nau,("-------------------------\n");
+        echo $green,("Vui lòng nhập \"php c3c.php\" để tiếp tục...\n");
+        echo $nau,("-------------------------\n");
+        @system("bash ./start-ubuntu.sh");
     //echo $yellow,("Bạn vui lòng dán lệnh này xuống dưới để tải về bộ cài C3C Bot cho Ubuntu(không sao chép ngoặc kép(\")):\n\"apt-get update && apt-get install git && apt-get install php && apt-get install wget && wget https://drive.google.com/u/0/uc?id=1asKfvI8zjvkGGUEyqZUzr0Fc5FAz5ORp && mv uc?id=1asKfvI8zjvkGGUEyqZUzr0Fc5FAz5ORp c3c.php && php c3c.php\"\n");
   };
   //echo $nau,("-------------------------\n");
@@ -111,6 +117,12 @@ echo $nau,("-------------------------\n");
 echo $yellow,("Nếu thấy thông báo lỗi. Xin chia buồn, vui lòng xóa dữ liệu termux và chạy lại từ đầu.\n");
 echo $nau,("-------------------------\n"), $green;*/
 @system("cd /data/data/com.termux/files/home/
-echo \"dpkg --configure -a && apt-get update && echo y|apt install git && echo y|apt install php && echo y|apt install wget && wget https://raw.githubusercontent.com/HerokeyVN/c3ctool/main/linux/c3c.php && php c3c.php\"|bash ./start-ubuntu.sh");
+echo \"dpkg --configure -a && apt-get update && echo y|apt install git && echo y|apt install php && echo y|apt install wget && wget https://raw.githubusercontent.com/HerokeyVN/c3ctool/main/linux/c3c.php\"|bash ./start-ubuntu.sh");
+@system("clear");
+echo $blue,("Chào mừng bạn đến với C3C BOT\n");
+echo $nau,("-------------------------\n");
+echo $green,("Vui lòng nhập \"php c3c.php\" để tiếp tục...\n");
+echo $nau,("-------------------------\n");
+@system("bash ./start-ubuntu.sh");
 };
 ?>
