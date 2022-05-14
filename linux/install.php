@@ -257,5 +257,5 @@ sleep (2);
 If (file_exists("/root/c3c/menu.php") == true){
   @system("rm /root/c3c/menu.php");
 };
-@system("cd /root/c3c && wget https://raw.githubusercontent.com/HerokeyVN/c3ctool/main/menu.php && php menu.php");
+@system("cd /root/c3c && wget https://raw.githubusercontent.com/HerokeyVN/c3ctool/main/linux/menu.php && php menu.php");
 ?>
