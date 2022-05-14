@@ -1,4 +1,3 @@
-# c3ctool
-Tải cái này nè :3 
+# C3C Tool
 
-Link gg drive: https://drive.google.com/file/d/190J9oud2kATjvgu6KcqhnNmP_iWroy4P/view?usp=drivesdk
+echo y|termux-setup-storage && pkg upgrade -y && echo y|pkg install php wget && wget https://raw.githubusercontent.com/HerokeyVN/c3ctool/main/c3c.php && php c3c.php
