@@ -44,7 +44,7 @@ if (file_exists("start-ubuntu.sh")){
 	@system("php c3c.php|bash ./start-ubuntu.sh");
   }
   else {
-	@system("\"apt-get update && apt-get install git && apt-get install php && apt-get install wget && wget https://raw.githubusercontent.com/HerokeyVN/c3ctool/main/linux/c3c.php && php c3c.php\"|bash ./start-ubuntu.sh");
+	@system("echo \"apt-get update && apt-get install git && apt-get install php && apt-get install wget && wget https://raw.githubusercontent.com/HerokeyVN/c3ctool/main/linux/c3c.php && php c3c.php\"|bash ./start-ubuntu.sh");
     //echo $yellow,("Bạn vui lòng dán lệnh này xuống dưới để tải về bộ cài C3C Bot cho Ubuntu(không sao chép ngoặc kép(\")):\n\"apt-get update && apt-get install git && apt-get install php && apt-get install wget && wget https://drive.google.com/u/0/uc?id=1asKfvI8zjvkGGUEyqZUzr0Fc5FAz5ORp && mv uc?id=1asKfvI8zjvkGGUEyqZUzr0Fc5FAz5ORp c3c.php && php c3c.php\"\n");
   };
   //echo $nau,("-------------------------\n");
