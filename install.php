@@ -57,7 +57,7 @@ echo $yellow,(" Để chạy Bot không ảnh hưởng đến trải nghiệm, h
 + Hệ điều hành: Android 7.0 trở lên\n
  Nếu máy bạn đáp ứng những yêu cầu trên thì hãy nhấn \"Enter\" còn không hãy nhấn \"Ctrl+C\" :3\n");
 readline();
-/*@system("clear");
+@system("clear");
 echo $nau,("-------------------------\n");
 echo $yellow,("Nếu bạn thấy hệ thống báo:\n");
 echo $green,("\"What would you like to do about it ?  Your options are:\n
@@ -67,7 +67,7 @@ echo $green,("\"What would you like to do about it ?  Your options are:\n
       Z     : start a shell to examine the situation\n
  The default action is to keep your current version.\"\n");
 echo $yellow,("Thì hãy nhấn \"enter\" để chạy tiếp nha (cấm chọn lung tung).\n");
-readline();*/
+readline();
 @system("clear");
 echo $blue,("Chào mừng bạn đến với C3C BOT\n");
 echo $yellow,("Đang tải dữ liệu.\n");
@@ -84,7 +84,7 @@ echo $nau,("-------------------------\n");
 echo $green,("Khởi động cài đặt Ubuntu 18...\n");
 echo $nau,("-------------------------\n");
 echo $green,("");
-@system("curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu/ubuntu.sh | bash");
+@system("curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/repo-fix.sh > repo.sh && chmod +x repo.sh && echo N|bash repo.sh && pkg update -y && pkg install wget curl proot tar -y && wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu/ubuntu.sh -O ubuntu.sh && chmod +x ubuntu.sh && bash ubuntu.sh");
 echo ("\n");
 echo $nau,("-------------------------");
 echo $green,("Hoàn tất !");
