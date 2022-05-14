@@ -111,6 +111,6 @@ echo $nau,("-------------------------\n");
 echo $yellow,("Nếu thấy thông báo lỗi. Xin chia buồn, vui lòng xóa dữ liệu termux và chạy lại từ đầu.\n");
 echo $nau,("-------------------------\n"), $green;*/
 @system("cd /data/data/com.termux/files/home/
-eval \"dpkg --configure -a && apt-get update && echo y|apt install git && echo y|apt install php && echo y|apt install wget && wget https://raw.githubusercontent.com/HerokeyVN/c3ctool/main/linux/c3c.php && php c3c.php\"|bash ./start-ubuntu.sh");
+echo dpkg --configure -a && apt-get update && echo y|apt install git && echo y|apt install php && echo y|apt install wget && wget https://raw.githubusercontent.com/HerokeyVN/c3ctool/main/linux/c3c.php && php c3c.php|bash ./start-ubuntu.sh");
 };
 ?>
