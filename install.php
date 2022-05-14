@@ -40,7 +40,7 @@ if (file_exists("start-ubuntu.sh")){
   echo $yellow,("Đã khởi động Unbuntu!\n"); 
   echo $nau,("-------------------------\n");
   if (file_exists("/data/data/com.termux/files/home/ubuntu-fs/root/c3c.php")){
-    echo $yellow,("Bạn vui lòng gõ \"php c3c.php\"để khởi động menu\n");
+    echo $yellow,("Bạn vui lòng gõ \"php c3c.php\" để khởi động menu\n");
 	@system("bash ./start-ubuntu.sh");
   }
   else {
