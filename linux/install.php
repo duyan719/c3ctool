@@ -117,11 +117,12 @@ $prf = ("/");
 $khfb = ("");
 $khdc = ("");
 echo $yellow,("Mời bạn nhập tên bot:\n");
-fscanf(STDIN,"%s\n",$botname);
+
+$botname = readline("");
 while ($khfb == "")
 {
     echo ("Bạn có muốn kích hoạt FB không(Y/N):\n");
-    fscanf(STDIN,"%s\n",$kt);
+    $kt = readline("");
     switch ($kt) {
         case "y":
         case "Y":
@@ -142,12 +143,12 @@ Link Hướng dẫn: https://www.facebook.com/groups/c3cbot/permalink/3830236096
     readline();
   echo $nau,("-------------------------\n");
     echo $yellow,("Mời bạn nhập FB ID của chủ Bot:\n");
-    fscanf(STDIN,"%s\n",$fbid);
+    $fbid = readline("");
 };
 while ($khdc == "")
 {
     echo ("Bạn có muốn kích hoạt DC(Discord) không (Nếu có dùng DC hãy nhấn Y/ Nếu không dùng DC hãy nhấn N):\n");
-    fscanf(STDIN,"%s\n",$kt);
+    $kt = readline("");
     switch ($kt) {
         case "y":
         case "Y":
@@ -162,13 +163,13 @@ while ($khdc == "")
 if ($khdc == "true") {
     while ($dctk == ""){
         echo ("Mời bạn nhập Token DC của Bot:\n");
-        fscanf(STDIN,"%s\n",$dctk);
+        $dctk = readline("");
     };
     echo ("Mời bạn nhập DC ID của chủ Bot:\n");
-    fscanf(STDIN,"%s\n",$dcid);
+    $dcid = readline("");
 };
 echo ("Mời bạn nhập kí tự đặt biệt để Bot nhận dạng(Mặc định là \"/\"):\n");
-fscanf(STDIN,"%s\n",$prf);
+$prf = readline("");
 $getconfig = ("{
     \"testmode\": false,
     \"botname\": \"$botname\",
