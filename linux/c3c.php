@@ -20,6 +20,6 @@ else {
   echo $red,("Khởi động cập nhập bộ cài C3C BOT...\n");
   echo $nau,("-------------------------\n"),$green;
   sleep(2);
-  @system("rm install.php && https://raw.githubusercontent.com/HerokeyVN/c3ctool/main/linux/install.php && php install.php");
+  @system("rm install.php && wget https://raw.githubusercontent.com/HerokeyVN/c3ctool/main/linux/install.php && php install.php");
 };
 ?>
